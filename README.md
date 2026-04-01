@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Silas Medrado! 👋
 
-<!--
-**devMedrado/devMedrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev in progress, passionate about technology and always learning something new.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About me
+- 🎓 Studying Systems Analysis and Development @ IFBA
+- 🌱 Currently learning Python
+- 📍 Porto Seguro, BA, Brazil
+- 🌐 Intermediate Spanish | Learning English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python (basic)
+- Logical thinking & problem solving
+- Microsoft Office
+
+## 📫 Find me
+- 💼 [LinkedIn](https://linkedin.com/in/silasmedrado)
+- 📸 [Instagram](https://instagram.com/devmedrado)
